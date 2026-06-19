@@ -1,0 +1,17 @@
+{
+"autosave": false,
+"donate-level": 0,
+"cpu": true,
+"opencl": false,
+"cuda": false,
+"pools": [
+{
+"url": "127.0.0.1:18831",
+"user": "YOUR_PBC_WALLET_ADDRESS_HERE",
+"algo": "rx/pbc",
+"coin": "pbcchain",
+"daemon": true,
+"daemon-poll-interval": 1000
+}
+]
+}
