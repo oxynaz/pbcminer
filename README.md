@@ -73,7 +73,7 @@ PulseMining is for people who like to spot good projects early and actually unde
 
 No promises of miracle gains — just people who'll help you move forward, and the launch news before anyone else.
 
-### 👉 Join PulseMining: **https://discord.gg/BKFaXmZ2Az**
+### 👉 Join PulseMining: **https://discord.gg/t4kZ59SCMa**
 
 ---
 
